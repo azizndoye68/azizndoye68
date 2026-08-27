@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0CE82B,100:58A6FF&height=200&section=header&text=Abdoul%20Aziz%20Ndoye&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingénieur%20en%20Génie%20Logiciel%20%7C%20Développeur%20Full%20Stack&descAlignY=58&descSize=18"/>
 
 </div>
@@ -25,6 +27,12 @@
 Je suis un **Ingénieur en Génie Logiciel**, tout récemment diplômé d'un **Master II** à l'**Université Assane Seck de Ziguinchor (UASZ)**. Je conçois des applications robustes et évolutives, avec une attention particulière portée à l'**architecture**, à la **sécurité** et à la **qualité du code**.
 
 Actuellement en recherche d'une **opportunité professionnelle** dans le développement logiciel, les systèmes d'information et les architectures distribuées.
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
+
+</div>
 
 <table align="center">
   <tr>
