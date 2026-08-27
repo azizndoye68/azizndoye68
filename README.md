@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🎓+Master+II+en+Génie+Logiciel+%40+UASZ;💻+Ingénieur+en+Génie+Logiciel;🚀+Développeur+Full+Stack;🏗️+Passionné+par+les+architectures+Microservices;🔐+Intéressé+par+la+sécurité+et+les+API;🌍+Basé+au+Sénégal+🇸🇳" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🎓+Master+en+Génie+Logiciel+%40+UASZ;💻+Ingénieur+en+Génie+Logiciel;🚀+Développeur+Full+Stack;🏗️+Passionné+par+les+architectures+Microservices;🔐+Intéressé+par+la+sécurité+et+les+API;🌍+Basé+au+Sénégal+🇸🇳" alt="Typing SVG"/>
 
 </div>
 
@@ -81,7 +81,6 @@
 <p align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
@@ -93,7 +92,6 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 </p>
@@ -174,7 +172,7 @@
 
 ## 💼 Expérience & Parcours
 
-### 🎓 Master II — Génie Logiciel
+### 🎓 Master — Génie Logiciel
 
 **Université Assane Seck de Ziguinchor (UASZ)**
 
@@ -248,16 +246,16 @@ Actuellement en immersion professionnelle dans le domaine informatique, avec un 
 
 <div align="center">
 
-<a href="https://github.com/TON_USERNAME">
+<a href="https://github.com/azizndoye68">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/abdoul-aziz-ndoye-0751a23b2/"/>
 </a>
 
 <a href="mailto:TON_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="azizndoye68@gmail.com"/>
 </a>
 
 </div>
@@ -266,7 +264,7 @@ Actuellement en immersion professionnelle dans le domaine informatique, avec un 
 
 <div align="center">
 
-📍 **Sénégal 🇸🇳**
+📍 **Dakar, Sénégal** | ☎️ **+221 77 315 2007**
 
 </div>
 
