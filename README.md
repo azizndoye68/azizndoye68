@@ -1,9 +1,3 @@
-Oui. Je peux te faire une version **adaptée à ton profil réel**, plutôt que de copier les informations de l’exemple : **Master II en Génie Logiciel à l’UASZ, ingénieur/développeur Full Stack, Spring Boot, React, React Native, PostgreSQL, microservices, Docker, etc.**
-
-Je te conseille aussi de **ne pas mettre Data Science, TensorFlow, Power BI, Angular, Laravel, etc.** si ce ne sont pas réellement tes compétences principales. Pour un profil GitHub professionnel, mieux vaut afficher une stack cohérente et crédible.
-
-Voici un `README.md` prêt à mettre dans le dépôt portant exactement le même nom que ton username GitHub :
-
 <div align="center">
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
